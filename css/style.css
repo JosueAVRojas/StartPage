@@ -1,0 +1,78 @@
+*{
+    transition: 0.2s ease-in-out;
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+	--bg-dark: #35363A;
+	--bg-dark2: #2f2f33;
+	--bg-dark3: #202124;
+	--green: #70b791;
+	--magenta: #db8e9d;
+	--yellow: #c9c76b;
+	--cyan: #78b3c5;
+	--font: 'xos4 Terminus', sans-serif;
+}
+
+body{
+	font-family: var(--font);
+	background-color: var(--bg-dark);
+}
+
+#box{
+    height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	position: relative;
+}
+.container {
+	height: 8.5em;
+	width: 7em;
+	padding: 3em;
+	margin: 3%;
+	border-radius: 15px;
+	box-shadow: 0 12px 24px rgba(0, 0, 0, 0.25);
+	background-color: var(--bg-dark3);
+}
+
+.container:hover{
+	box-shadow: 0 15px 30px rgba(0, 0, 0, 0.50);
+}
+
+header{
+    padding-bottom: 15px;
+	cursor: pointer;
+	font-weight: bold;
+	text-align: center;
+	font-size: 25px;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+}
+
+.School a:hover,
+.School header {
+	color: var(--green);
+}
+
+.Social a:hover,
+.Social header {
+	color: var(--magenta);
+}
+
+.Development a:hover,
+.Development header {
+	color: var(--yellow);
+}
+@media (max-width: 620px) {
+	.container {
+		padding: 1.5em;
+		margin: 0;
+		border-radius: 0;
+		box-shadow: none;
+	}
+}
