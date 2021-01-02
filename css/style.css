@@ -68,6 +68,12 @@ a{
 .Development header {
 	color: var(--yellow);
 }
+
+.Other a:hover,
+.Other header {
+	color: var(--cyan);
+}
+
 @media (max-width: 620px) {
 	.container {
 		padding: 1.5em;
