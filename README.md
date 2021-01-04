@@ -22,6 +22,17 @@ Tener descaragado el archivo del startpage, a continuacion te muestro el paso de
 7. Al abrir de nuevo el navegador, se abrira la nueva pagina principal.
 
 
-### Capturas de pantalla 📷
+### Autores ✒️
+1. JosueAVRojas - Trabajo principal -  [JosueAVRojas](https://github.com/JosueAVRojas)
+* Contacto:
+  *  Facebook: [JosueVRojas](https://www.facebook.com/JOSUEROJAS15071999/)
+  *  Instagram: [JosueVRojas](https://www.instagram.com/JosueVRojas/)
 
- ![alt text](https://drive.google.com/drive/folders/1Sn1bltsEUKSo4LpGBniscChx-fgwCQEh) 
+### Expresiones de Gratitud 🎁
+* Comenta a otros sobre este proyecto 📢
+* Invita una cerveza 🍺 o un café ☕ por medio de [Paypal](paypal.me/JosueAVRojas).
+* Da las gracias públicamente 🤓.
+
+
+### Captura de pantalla 📷
+ ![alt text](https://github.com/JosueAVRojas/StartPage/blob/main/capturas/1.png) 
