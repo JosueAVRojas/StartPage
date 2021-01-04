@@ -22,6 +22,4 @@ Tener descaragado el archivo del startpage, a continuacion te muestro el paso de
 7. Al abrir de nuevo el navegador, se abrira la nueva pagina principal.
 
 
-### Capturas de pantalla 📷
-
- ![alt text](https://drive.google.com/drive/folders/1Sn1bltsEUKSo4LpGBniscChx-fgwCQEh) 
+### Capturas de pantalla 
