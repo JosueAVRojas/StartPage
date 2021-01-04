@@ -22,7 +22,6 @@ Tener descaragado el archivo del startpage, a continuacion te muestro el paso de
 7. Al abrir de nuevo el navegador, se abrira la nueva pagina principal.
 
 
-Puedes probar ingresando a este [Enlace](https://josueavrojas.github.io/StartPagePrueba.github.io/)
 
 ### Autores ✒️
 1. JosueAVRojas - Trabajo principal -  [JosueAVRojas](https://github.com/JosueAVRojas)
